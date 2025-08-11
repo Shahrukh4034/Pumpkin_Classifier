@@ -6,17 +6,27 @@ This is a machine learning web application that classifies images of pumpkins. I
 Pumpkin Classifier/
 │
 ├── router/                      # Handles routing logic
+
 ├── scripts/                     # Contains ML scripts and model logic
+
 ├── static/                      # Static files (CSS, JS, images)
+
 ├── templates/                   # HTML templates (Jinja2)
+
 ├── venv/                        # Virtual environment (not pushed to Git)
+
 ├── app.py                       # Main Flask application
+
 │
 ├── Screenshots/                # Project screenshots
+
+
 ├── Demo_Video/                 # Demo video folder
 │   └── PC Recording.mp4
 │
+
 ├── Pumpkin Classifier Documentation.pdf  # Detailed project documentation
+
 └── README.md                   # Project overview (you’re reading this)
 
  
