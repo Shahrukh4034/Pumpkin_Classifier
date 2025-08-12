@@ -81,3 +81,7 @@ A demo video is available in the Demo_Video/ folder.
 
 📄 Documentation
 For more details, refer to Pumpkin Classifier Documentation.pdf.
+
+
+Demo Video Link
+https://drive.google.com/file/d/1PWAPHLeDY3FjpIhYs4T4MXAPQ_kt27Vj/view?usp=drivesdk
